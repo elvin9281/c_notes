@@ -1,0 +1,3 @@
+# 忽略 build 出來的 binary
+lib/libmylib.so
+app/main
